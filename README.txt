@@ -9,7 +9,20 @@ Some issues:
  * No bones, just joints.
  * No Special parts (Fox's gun etc)
 
-Below is the guide I made to "fix" these models so you won't have to:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 v v v v v You may ignore this section v v v v v
 

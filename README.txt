@@ -1,8 +1,8 @@
 ***FOR PERSONAL USE ONLY***
 
-Models exported from the PerfectGold Editor can't be opened in Blender. I used Noesis to convert the models so they can be opened in Blender. I appended "FIXED - " to the converted models.
+FBX Animation Rigs exported from the PerfectGold Editor can't be opened in Blender. I used Noesis to convert the models so they can be opened in Blender. I appended "FIXED - " to the converted models.
 
-This will allow you to create custom characters using Blender.
+This will allow you to create custom characters using Blender. For reference, check out the SSB64 Guidelines for Animations and Rigging at http://n64vault.com/ssb-guides:guidelines-for-animation-and-rigging
 
 Some issues:
  * UV mapping is messed up (thank Nintendo / the editor)

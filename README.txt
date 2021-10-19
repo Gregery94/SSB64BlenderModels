@@ -1,4 +1,7 @@
-***FOR PERSONAL USE ONLY***
+This repository was put together by halofactory.
+twitter: @halofactorymoon
+
+***THESE ANIMATION RIGS ARE FOR PERSONAL USE ONLY***
 
 FBX Animation Rigs exported from the PerfectGold Editor can't be opened in Blender. I used Noesis to convert the models so they can be opened in Blender. I appended "FIXED - " to the converted models.
 
